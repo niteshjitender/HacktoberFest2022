@@ -3,7 +3,7 @@
 This project aims to help the beginners to contribute to the open source and participate in **Hacktoberfest 2k22**.
 
 After completing all the below tasks your details will be published on this website:
-[Hacktoberfest](https://niteshjitender.github.io/HacktoberFest/)
+[Hacktoberfest](https://niteshjitender.github.io/HacktoberFest2022/)
 
 ## What is Hacktoberfest?
 A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
@@ -141,8 +141,7 @@ Add your details to the script.js file
 Now Add, Commit with meaningful message, raise PR.
 
 
-**Congrats,** You have successfully contributed, now you can see your card will appear on the below website after successfully merging of your PR. Celebrate your contribution and share it with your friends and followers by going to [Hacktoberfest](https://niteshjitender.github.io/HacktoberFest/).
-
+**Congrats,** You have successfully contributed, now you can see your card will appear on the below website after successfully merging of your PR. Celebrate your contribution and share it with your friends and followers by going to [Hacktoberfest](https://niteshjitender.github.io/HacktoberFest2022/) 
 Ref: [Firstcontributions](https://github.com/firstcontributions/first-contributions)
 
  **Keep Contributing!!**
