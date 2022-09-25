@@ -1,4 +1,5 @@
     //This data contains the data the is being dipslayed as card in the website
+    // Add your details here
     const data = [
         {
             "name":"Jitender Singh Chhapola",
@@ -9,8 +10,10 @@
             "favouriteQuote":"Improving, Learning, Enjoying.",
             "profilePic":"./userImageData/niteshjitender.jpeg"
         }
+        //Add an object here containing your data
     ]
     
+
     //Function to add the userdata
     function addElement (userData) {
 
