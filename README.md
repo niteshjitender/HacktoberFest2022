@@ -141,7 +141,8 @@ Add your details to the script.js file
 Now Add, Commit with meaningful message, raise PR.
 
 
-**Congrats,** You have successfully contributed, now you can see your card will appear on the below website after successfully merging of your PR. Celebrate your contribution and share it with your friends and followers by going to [Hacktoberfest](https://niteshjitender.github.io/HacktoberFest2022/) 
+**Congrats,** You have successfully contributed, now you can see your card will appear on the below website after successfully merging of your PR. Celebrate your contribution and share it with your friends and followers by going to [Hacktoberfest](https://niteshjitender.github.io/HacktoberFest2022/)
+
 Ref: [Firstcontributions](https://github.com/firstcontributions/first-contributions)
 
  **Keep Contributing!!**
