@@ -1,6 +1,9 @@
 # # HacktoberFest 2022
 
 This project aims to help the beginners to contribute to the open source and participate in **Hacktoberfest 2k22**.
+Don't forget to spread love and if you like give us a ⭐️
+
+![Hacktoberfest 2022](HacktoberBanner.png)
 
 After completing all the below tasks your details will be published on this website:
 [Hacktoberfest](https://niteshjitender.github.io/HacktoberFest2022/)
