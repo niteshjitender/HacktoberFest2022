@@ -16,10 +16,10 @@ https://hacktoberfest.digitalocean.com/</p>
 ### What can You contribute ⚠️
 
 - This is the beginner friendly open source project.
-- Please refere to [README.md](https://github.com/niteshjitender/HacktoberFest/blob/main/README.md) to get started.
+- Please refere to [README.md](https://github.com/niteshjitender/HacktoberFest2022/blob/main/README.md) to get started.
 ### Adding a New Feature
 
--   Open an  [issue](https://github.com/niteshjitender/HacktoberFest/issues/new)  describing the new feature you want to implement.
+-   Open an  [issue](https://github.com/niteshjitender/HacktoberFest2022/issues/new)  describing the new feature you want to implement.
 -  Feel free to implement once approved.
 -  Make sure your follow the below steps.
 
@@ -33,7 +33,7 @@ https://hacktoberfest.digitalocean.com/</p>
 
 ### Contribute to this repository 
 
-Refer: [README.md](https://github.com/niteshjitender/HacktoberFest/blob/main/README.md)
+Refer: [README.md](https://github.com/niteshjitender/HacktoberFest2022/blob/main/README.md)
 - Make a pull request.
 - Star the repository.
 

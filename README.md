@@ -131,7 +131,7 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
  You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll encounter often as a contributor!
 
 ### 2. Add your profile pic
-Now go to the [MyFirstContribution/userImageData](https://github.com/niteshjitender/HacktoberFest/tree/main/MyFirstContribution/userImageData)
+Now go to the [MyFirstContribution/userImageData](https://github.com/niteshjitender/HacktoberFest2022/tree/main/MyFirstContribution/userImageData)
 Here you have to add the profile pic that is being shown in the website.
 Just add your profilepic with your *Github username*
 
@@ -139,12 +139,13 @@ Now Add, Commit with meaningful message, raise PR.
 
 ### 3. Add your data to show the card on the website
 
-Now go to the [MyFirstContribution/script.js](https://github.com/niteshjitender/HacktoberFest/blob/main/MyFirstContribution/script.js)
+Now go to the [MyFirstContribution/script.js](https://github.com/niteshjitender/HacktoberFest2022/blob/main/MyFirstContribution/script.js)
 Add your details to the script.js file
 Now Add, Commit with meaningful message, raise PR.
 
 
-**Congrats,** You have successfully contributed, now you can see your card will appear on the below website after successfully merging of your PR. Celebrate your contribution and share it with your friends and followers by going to [Hacktoberfest](https://niteshjitender.github.io/HacktoberFest2022/) 
+**Congrats,** You have successfully contributed, now you can see your card will appear on the below website after successfully merging of your PR. Celebrate your contribution and share it with your friends and followers by going to [Hacktoberfest](https://niteshjitender.github.io/HacktoberFest2022/)
+
 Ref: [Firstcontributions](https://github.com/firstcontributions/first-contributions)
 
  **Keep Contributing!!**
