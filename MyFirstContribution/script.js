@@ -9,6 +9,15 @@
             "location": "India",
             "favouriteQuote":"Improving, Learning, Enjoying.",
             "profilePic":"./userImageData/niteshjitender.jpeg"
+        },
+        {
+            "name":"Kshitij Maurya",
+            "occupation": "Student",
+            "username": "mauryakshitijr",
+            "github": "https://github.com/mauryakshitij",
+            "location": "India",
+            "favouriteQuote":"Stay hungry, Stay foolish.",
+            "profilePic":"./userImageData/mauryakshitj.jpeg"
         }
         //Add an object here containing your data
     ]
