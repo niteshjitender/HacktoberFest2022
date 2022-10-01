@@ -1,4 +1,4 @@
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img width="300" src="https://github.com/Yuji-Itadorii/HacktoberFest2022/blob/main/MyFirstContribution/userImageData/logo.png" />
 
 This is the website that show the contributors cards.
