@@ -60,11 +60,20 @@ span#first{
     -webkit-text-fill-color: transparent;
 }
 
-span#first:hover{
-    text-shadow: 0 0 5px var(--pink-shade),
-    0 0 25px var(--persian-blue),
-    0 0 50px var(--persian-blue),
-    0 0 100px var(--persian-blue);
+span#first > .letter {
+    background: -webkit-linear-gradient(var(--golden-shade), var(--pink-shade));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    pointer-events: none;
+    animation: upscale 0.5s 1;
+}
+
+@keyframes upscale{
+	50%{
+		-webkit-transform: scale(1.5);
+		transform: scale(1.5);
+    }
 }
 
 #contributors_heading{
