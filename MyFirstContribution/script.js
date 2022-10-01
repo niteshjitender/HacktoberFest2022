@@ -36,7 +36,16 @@ const data = [
         "location": "India",
         "favouriteQuote": "Always belive in yourself",
         "profilePic": "./userImageData/sainathd07.jpg"
-    }
+    },  
+    {
+        "name": "Ansh Rusia",
+        "occupation": "Full Stack Developer",
+        "username": "anshrusia200",
+        "github": "https://github.com/anshrusia200",
+        "location": "India",
+        "favouriteQuote": "The bad news is time flies. The good news is you're the pilot.",
+        "profilePic": "./userImageData/anshrusia200.jpg",
+      },
 
     //Add an object here containing your data
 ]
