@@ -27,6 +27,15 @@ const data = [
         "location": "India",
         "favouriteQuote": "Grind is Eternal",
         "profilePic": "./userImageData/visheshrathi.jpeg"
+    },
+    {
+        "name": "Shahbaaz Shaik",
+        "occupation": "Full stack Developer",
+        "username": "ShahbaazX786",
+        "github": "https://github.com/ShahbaazX786",
+        "location": "India",
+        "favouriteQuote": "Just Learning a little everyday to be a better self.",
+        "profilePic": "./userImageData/Shahbaaz.jpg"
     }
 
     //Add an object here containing your data
