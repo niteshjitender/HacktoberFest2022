@@ -135,13 +135,15 @@ Now go to the [MyFirstContribution/userImageData](https://github.com/niteshjiten
 Here you have to add the profile pic that is being shown in the website.
 Just add your profilepic with your *Github username*
 
-Now Add, Commit with meaningful message, raise PR.
+Now Add, Commit with meaningful message.
 
 ### 3. Add your data to show the card on the website
 
 Now go to the [MyFirstContribution/script.js](https://github.com/niteshjitender/HacktoberFest2022/blob/main/MyFirstContribution/script.js)
 Add your details to the script.js file
+
 Now Add, Commit with meaningful message, raise PR.
+Note: Please raise a PR containing all the above three tasks.
 
 
 **Congrats,** You have successfully contributed, now you can see your card will appear on the below website after successfully merging of your PR. Celebrate your contribution and share it with your friends and followers by going to [Hacktoberfest](https://niteshjitender.github.io/HacktoberFest2022/)
