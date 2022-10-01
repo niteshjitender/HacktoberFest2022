@@ -18,6 +18,15 @@ const data = [
         "location": "India",
         "favouriteQuote": "There are no shortcuts to success. You gotta hustle hard.",
         "profilePic": "./userImageData/sayamalvi.jpeg"
+    },
+    {
+        "name": "Vishesh Rathi",
+        "occupation": "Front End Developer",
+        "username": "rathi710",
+        "github": "https://github.com/rathi710",
+        "location": "India",
+        "favouriteQuote": "Grind is Eternal",
+        "profilePic": "./userImageData/visheshrathi.jpeg"
     }
 
     //Add an object here containing your data
