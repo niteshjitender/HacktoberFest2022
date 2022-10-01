@@ -13,7 +13,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 
 ## Project Contributors
 <a href="https://github.com/niteshjitender/HacktoberFest2022/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=niteshjitender/Hactoberfest2022" />
+<img src="https://contrib.rocks/image?repo=niteshjitender/HacktoberFest2022" />
 </a>
 
 
