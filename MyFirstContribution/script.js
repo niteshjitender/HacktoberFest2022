@@ -36,6 +36,15 @@ const data = [
         "location": "India",
         "favouriteQuote": "Always belive in yourself",
         "profilePic": "./userImageData/sainathd07.jpg"
+    },
+    {
+        "name": "Swastik",
+        "occupation": "laravel Developer",
+        "username": "swastik-bose007",
+        "github": "https://github.com/swastik-bose007",
+        "location": "India",
+        "favouriteQuote": "Innovate yourself everyday",
+        "profilePic": "./userImageData/Swastik.jpg"
     }
 
     //Add an object here containing your data
@@ -52,6 +61,7 @@ function addElement(userData) {
     //Heading div
     const heading_div = document.createElement("div");
     const childTag1_img = document.createElement("img");
+    childTag1_img.classList.add("img-fluid");
     if (userData.profilePic)
         childTag1_img.src = userData.profilePic
     // childTag1_img.setAttribute("alt",userData.username);
