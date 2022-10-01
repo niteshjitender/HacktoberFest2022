@@ -7,5 +7,6 @@
 [Aditya Saini](https://github.com/Aditya-Saini3)
 [Himangshu Kalita](https://github.com/HimangsKalita)
 [Rizky Pratama](https://github.com/rizkypsr)
+[Nishant](https://github.com/Ordinary-droid)
 [sainath](https://github.com/sainathd07)
 <!-- prettier-ignore-end -->
