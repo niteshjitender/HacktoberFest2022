@@ -11,6 +11,15 @@ const data = [
         "profilePic": "./userImageData/niteshjitender.jpeg"
     },
     {
+        "name": "Suhaas Arun",
+        "occupation": "MERN stack developer",
+        "username": "Suhaas10",
+        "github": "https://github.com/Suhaas10",
+        "location": "India",
+        "favouriteQuote": "See, you not only have to be a good coder to create system like Linux, you have to be a sneaky bastard too.",
+        "profilePic": "./userImageData/suhaasarun.jpeg"
+    },
+    {
         "name": "Sayam Alvi",
         "occupation": "React Developer",
         "username": "sayamalvi",

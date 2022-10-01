@@ -60,6 +60,13 @@ span#first{
     -webkit-text-fill-color: transparent;
 }
 
+span#first:hover{
+    text-shadow: 0 0 5px var(--pink-shade),
+    0 0 25px var(--persian-blue),
+    0 0 50px var(--persian-blue),
+    0 0 100px var(--persian-blue);
+}
+
 #contributors_heading{
     margin: 100px auto 4px 40px;
     text-align: start;
@@ -123,4 +130,6 @@ h1,h3,p {
 body{
     background: linear-gradient(-45deg, var(--xiketic-2), var(--xiketic), var(--dark-purple)); background-attachment: fixed;
 }
+
+
 
