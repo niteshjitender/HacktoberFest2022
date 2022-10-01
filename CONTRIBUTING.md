@@ -42,5 +42,8 @@ Refer: [README.md](https://github.com/niteshjitender/HacktoberFest2022/blob/main
 - Make Sure you commit your changes in a new branch.
 - Make Sure you Give proper name to your files describing the addition.
 - Also Make Sure you comment your code wherever necessary.
+- Only adding your name in Contributors.md is not counted as valid PR for Hacktoberfest. PR must have a some contribution from your side.
+- Kindly look at the issue section or you can work on the tasks given in the [README.md](https://github.com/niteshjitender/HacktoberFest2022/blob/main/README.md)
+- If you found any bug or have any suggestion, Kindly create the issue regarding the same.
 
 <!--       END OF README           END OF README         END OF README         END OF README          END OF README           END OF README           END OF README      -->
