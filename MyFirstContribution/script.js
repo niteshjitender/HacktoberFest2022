@@ -11,13 +11,22 @@ const data = [
         "profilePic": "./userImageData/niteshjitender.jpeg"
     },
     {
+        "name": "Shubham",
+        "occupation": "Web Developer",
+        "username": "shubhamgoyal7125",
+        "github": "https://github.com/ShubhamGoyal7125",
+        "location": "India",
+        "favouriteQuote": "If you want to sun like the sun, first burn like the sun.",
+        "profilePic": "./userImageData/shubham.jfif"
+    },
+    {
         "name": "Sayam Alvi",
         "occupation": "React Developer",
         "username": "sayamalvi",
         "github": "https://github.com/sayamalvi",
         "location": "India",
         "favouriteQuote": "There are no shortcuts to success. You gotta hustle hard.",
-        "profilePic": "./userImageData/sayamalvi.jpeg"
+        "profilePic": "./userImageData/shubham.jfif"
     },
     {
         "name": "Vishesh Rathi",
