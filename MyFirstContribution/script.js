@@ -20,6 +20,15 @@ const data = [
         "profilePic": "./userImageData/sayamalvi.jpeg"
     },
     {
+        "name": "Shashwat Shivam",
+        "occupation": "Student",
+        "username": "shashwat49",
+        "github": "https://github.com/Shashwat49",
+        "location": "India",
+        "favouriteQuote": "You don't know what you got till it is gone.",
+        "profilePic": "./userImageData/Shashwat49.jpg"
+    },
+    {
         "name": "Vishesh Rathi",
         "occupation": "Front End Developer",
         "username": "rathi710",
