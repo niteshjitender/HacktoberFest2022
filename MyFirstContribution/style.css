@@ -67,10 +67,10 @@ span#first{
 }
 
 div.container {
-    display: grid;
-    grid-template-columns: repeat(4,1fr);
-    grid-gap: 20px;
-    margin: auto 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
 }
 
 div.card{
@@ -78,7 +78,8 @@ div.card{
     flex-direction: column;
     justify-content:flex-start;
     height: 260px;
-    width:240px;
+    width: 240px;
+    margin: 10px;
     box-sizing: content-box;
     border-width: 4px 4px 4px 4px;
     border-style: solid;
@@ -94,7 +95,7 @@ div.card div.heading_div{
     align-items: center;
     justify-content: center;
     background:linear-gradient(to right, var(--persian-blue),var(--dark-purple));
-    padding: 0px;
+    padding: 10px;
     line-height:1;
     z-index: 4;
 }
@@ -102,6 +103,7 @@ div.card div.heading_div{
 
 div.card div.heading_div p{
     margin-left:4px;
+    margin-top: 10px;
 }
 div.card div.heading_div img{
     width:30px;
