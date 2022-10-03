@@ -6,7 +6,6 @@
 - **THE MAIN PURPOSE OF THIS REPO WILL REMAIN THE SAME- TO HELP THE BEGINNERS IN STARTING THEIR JOURNEY IN OPEN SOURCE.**
 - **ALL THE PR AND ISSUES RAISED CAN STILL BE MERGED.**
 
-  
 
 This project aims to help the beginners to contribute to the open source.
 
@@ -285,9 +284,13 @@ Here you have to add the profile pic that is being shown in the website.
 
 Just add your profilepic with your *Github username*
 
+<<<<<<< HEAD
   
 
 Now Add, Commit with meaningful message, raise PR.
+=======
+Now Add, Commit with meaningful message.
+>>>>>>> 46ea612748715968485be35cf81a28b0e359840c
 
   
 
@@ -300,6 +303,7 @@ Now go to the [MyFirstContribution/script.js](https://github.com/niteshjitender/
 Add your details to the script.js file
 
 Now Add, Commit with meaningful message, raise PR.
+Note: Please raise a PR containing all the above three tasks.
 
   
   
@@ -310,6 +314,18 @@ Now Add, Commit with meaningful message, raise PR.
 
 Ref: [Firstcontributions](https://github.com/firstcontributions/first-contributions)
 
+<<<<<<< HEAD
   
 
 **Keep Contributing!!**
+=======
+ **Keep Contributing!!**
+ 
+ ### Project Contributors
+<a href="https://github.com/niteshjitender/HacktoberFest2022/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=niteshjitender/HacktoberFest2022" />
+</a>
+
+ 
+ 
+>>>>>>> 46ea612748715968485be35cf81a28b0e359840c
