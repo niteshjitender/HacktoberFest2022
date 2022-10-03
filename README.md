@@ -306,14 +306,10 @@ Note: Please raise a PR containing all the above three tasks.
   
 
 Ref: [Firstcontributions](https://github.com/firstcontributions/first-contributions)
-
-<<<<<<< HEAD
   
 
 **Keep Contributing!!**
-=======
- **Keep Contributing!!**
- 
+
  ### Project Contributors
 <a href="https://github.com/niteshjitender/HacktoberFest2022/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=niteshjitender/HacktoberFest2022" />
@@ -321,4 +317,3 @@ Ref: [Firstcontributions](https://github.com/firstcontributions/first-contributi
 
  
  
->>>>>>> 46ea612748715968485be35cf81a28b0e359840c
