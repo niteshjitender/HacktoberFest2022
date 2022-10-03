@@ -277,13 +277,8 @@ Here you have to add the profile pic that is being shown in the website.
 
 Just add your profilepic with your *Github username*
 
-<<<<<<< HEAD
-  
-
-Now Add, Commit with meaningful message, raise PR.
-=======
 Now Add, Commit with meaningful message.
->>>>>>> 46ea612748715968485be35cf81a28b0e359840c
+
 
   
 
