@@ -60,6 +60,22 @@ span#first{
     -webkit-text-fill-color: transparent;
 }
 
+span#first > .letter {
+    background: -webkit-linear-gradient(var(--golden-shade), var(--pink-shade));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    pointer-events: none;
+    animation: upscale 0.5s 1;
+}
+
+@keyframes upscale{
+	50%{
+		-webkit-transform: scale(1.5);
+		transform: scale(1.5);
+    }
+}
+
 #contributors_heading{
     margin: 100px auto 4px 40px;
     text-align: start;
@@ -123,4 +139,6 @@ h1,h3,p {
 body{
     background: linear-gradient(-45deg, var(--xiketic-2), var(--xiketic), var(--dark-purple)); background-attachment: fixed;
 }
+
+
 
