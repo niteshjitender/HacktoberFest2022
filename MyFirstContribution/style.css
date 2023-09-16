@@ -135,6 +135,11 @@ h1,h3,p {
     text-align: center;
     color:whitesmoke;
 }
+/* Adding hovering effect to the username field */
+.glow:hover{
+    color: #EBE4D1;
+    font-weight: bold;
+}
 
 body{
     background: linear-gradient(-45deg, var(--xiketic-2), var(--xiketic), var(--dark-purple)); background-attachment: fixed;
