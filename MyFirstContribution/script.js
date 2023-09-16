@@ -97,6 +97,7 @@ function addElement(userData) {
     span.innerText = "Username: ";
     li.appendChild(span);
     let anchor = document.createElement("a");
+    anchor.setAttribute("class","glow")
     anchor.href = userData.github;
     anchor.innerText = userData.username;
     li.appendChild(anchor);
