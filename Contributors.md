@@ -9,9 +9,6 @@
 [Himangshu Kalita](https://github.com/HimangsKalita)
 [Ansh Rusia](https://github.com/anshrusia200)
 [Rizky Pratama](https://github.com/rizkypsr)
-<<<<<<< HEAD
 [aritroo](https://github.com/aritroo)
-=======
 [sainath](https://github.com/sainathd07)
->>>>>>> 46ea612748715968485be35cf81a28b0e359840c
 <!-- prettier-ignore-end -->
